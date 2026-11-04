@@ -6,6 +6,6 @@
     <string name="ct_locale_only">Bem-vindo</string>
     <plurals name="ct_variant_plural">
         <item quantity="one">Arquivo único</item>
-        <item quantity="other">Arquivos</item>
+        <item quantity="other">Todos os arquivos</item>
     </plurals>
 </resources>

@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="ct_plural_replace">
         <item quantity="one">Message</item>
-        <item quantity="other">Messages</item>
+        <item quantity="other">All messages</item>
     </plurals>
     <plurals name="ct_variant_plural">
         <item quantity="one">File3</item>
