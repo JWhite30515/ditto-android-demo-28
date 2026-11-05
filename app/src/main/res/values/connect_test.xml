@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Code side of ditto-app bin/console/connectTest/cases.ts. Keep the values in sync with that file. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ct_exact">Review transfer details</string>
+    <string name="ct_exact">Check transfer details</string>
     <string name="ct_duplicate">Add a recipient</string>
     <string name="ct_case">Pay Now</string>
     <string name="ct_punctuation">Transfer complete.</string>
@@ -19,7 +19,7 @@
         <item quantity="other">New alerts</item>
     </plurals>
     <plurals name="ct_plural_replace">
-        <item quantity="one">1 message</item>
+        <item quantity="one">One message</item>
         <item quantity="other">All messages</item>
     </plurals>
     <plurals name="ct_variant_plural">
